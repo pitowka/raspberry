@@ -3,11 +3,11 @@
 - gpiozero
 - lgpio
 
-and maybe also<br />
+and maybe also<br/>
 - gpiod
 - rgpio
 - rpi-lgpio
 
 ### Links:
-https://gpiozero.readthedocs.io/en/stable/installing.html#
+https://gpiozero.readthedocs.io/en/stable/installing.html# <br/>
 https://abyz.me.uk/lg/py_lgpio.html
