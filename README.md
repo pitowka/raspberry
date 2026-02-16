@@ -10,3 +10,4 @@ and maybe also<br />
 
 ### Links:
 https://gpiozero.readthedocs.io/en/stable/installing.html#
+https://abyz.me.uk/lg/py_lgpio.html
